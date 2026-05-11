@@ -19,5 +19,6 @@ The goal is simple: keep building and keep improving.
 | `Deepfake-Analyzer` | Deep learning model for deepfake detection (guided workshop) | Python, TensorFlow |
 | `house-price-predictor` | ML model predicting house prices | Python, scikit-learn |
 | `spam-sms-classifier` | Text classification model for SMS spam detection | Python, scikit-learn |
+| `devops-log-analyzer` | Multi-agent AI pipeline that analyzes logs and generates remediation plans, runs fully locally via Ollama | Python, CrewAI, Ollama |
 
 > **Note:** For my main projects, see my other repositories like [mcp-memory-server](https://github.com/Ritvik2512/mcp-memory-server).
