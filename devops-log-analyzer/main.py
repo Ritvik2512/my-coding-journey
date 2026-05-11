@@ -45,7 +45,7 @@ devops_crew = Crew(
 )
 
 if __name__ == "__main__":
-    log_path = r"C:\programs\agentic ai\dummy_logs\kubernetes_deployment_error.log"
+    log_path = r"dummy_logs\kubernetes_deployment_error.log"
 
     print("=" * 52)
     print("   DevOps Log Analyzer — Powered by Ollama")
