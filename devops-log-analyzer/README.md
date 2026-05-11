@@ -19,7 +19,7 @@ Built with [CrewAI](https://github.com/crewaiinc/crewai) for agent orchestration
 
 ## Demo
 
-![alt text](demo.png)
+![alt text](assets/demo.png)
 
 ## Prerequisites
 
